@@ -1,6 +1,7 @@
 name: YADAS
 description: Chronicles of a data science interview
 markdown: GFM
+theme: jekyll-theme-midnight
 
 
 
